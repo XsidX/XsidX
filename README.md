@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+# [![sidney kaguli header](https://github.com/XsidX/XsidX/blob/master/banner.png)](https://www.linkedin.com/in/sidney-kaguli-0116801a6/)
 
 
 <p>
