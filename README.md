@@ -18,105 +18,24 @@ Hey there 👋,
 I create full-stack web projects mainly with React | Ruby | Rails. I have a passion for learning and sharing my knowledge with others. This is something I have really enjoyed practicing here at [![Microverse](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org). 
  
  <p>
-  <img width="300" align='left' src="https://media.giphy.com/media/ST4VLztdI7QvcroYE5/giphy.gif">
+  <img width="500" align='left' src="https://github.com/XsidX/XsidX/blob/master/hire.gif">
 </p>
- 
-### Boy Scout Rule
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the concept of living the code better than I found it. I contribute to things as I come across, issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I like a good onboarding readme with good example🙌.
+
+
+
+
+
+
 
  ---
 
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
+### My Github Statistics 💹
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XsidX&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Digital Garden 🌱
+[![Sidney's GitHub stats](https://github-readme-stats.vercel.app/api?username=XsidX&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+I enjoy reading articles, blog posts, to learn new skills, write better code, keep in touch with new updates in my tech stack. 
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
-
-[Latest Post 👉](https://waylonwalker.com/latest)
-
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
- 
-</details>
-
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
-
----
-
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
-
-
-<!--
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
-
-<a href='https://twitter.com/natterstefan'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/natterstefan'>
-    Stefan Natter 🇦🇹👋🏻
-</a>
-
-I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
-
-<h2></h2><a href='https://twitter.com/commanderquest'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/commanderquest'>
-    Commander Quest
-</a>
-
-On a mission to the furthest frontiers of tech and talent. 
-Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
-
-<h2></h2><a href='https://twitter.com/benjaminwardcom'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/benjaminwardcom'>
-    Benjamin Ward
-</a>
-
-software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
-
-<h2></h2><a href='https://twitter.com/tucker_dev'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/tucker_dev'>
-    James Tucker
-</a>
-
-software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas. writing @ https://t.co/SPyap1XFWD. he/him
-
-<h2></h2><a href='https://twitter.com/BenGuthmiller'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/BenGuthmiller'>
-    Ben Guthmiller
-</a>
-
-Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
-
-<h2></h2>
--->
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
-</div>
-
-## Stargazers
+[Latest Read 👉](https://medium.com/dhiwise/react-18-new-features-and-updates-2e608d862a6d)
